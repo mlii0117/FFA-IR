@@ -28,3 +28,17 @@ python main.py
 ## Contact
 
 If you are interested in this dataset or have any questions, please connect us: Mingjie.Li@monash.edu.
+
+**The lesion_dict.json is missing on the Physionet, we are working with them to update a new version. Before that anyone with the approval license from Physionet can email Mingjie.li@monash.edu to access the data.**
+
+If you find the dataset or code useful, please cite our paper:
+
+
+~~~
+@inproceedings{li2021ffa,
+  title={FFA-IR: Towards an Explainable and Reliable Medical Report Generation Benchmark},
+  author={Li, Mingjie and Cai, Wenjia and Liu, Rui and Weng, Yuetian and Zhao, Xiaoyun and Wang, Cong and Chen, Xin and Liu, Zhong and Pan, Caineng and Li, Mengke and others},
+  booktitle={Thirty-fifth Conference on Neural Information Processing Systems Datasets and Benchmarks Track (Round 2)},
+  year={2021}
+}
+~~~
