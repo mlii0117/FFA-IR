@@ -5,7 +5,10 @@ The framework is inherited from [R2Gen](https://github.com/cuhksz-nlp/R2Gen).
 
 ## Data
 
-Our dataset, including all FFA images and annotation files, is available on [PhysioNet](https://physionet.org/content/ffa-ir-medical-report/1.0.0/).
+NEWS: Our latest version, including all FFA images and annotation files, is available on [PhysioNet](https://physionet.org/content/ffa-ir-medical-report/1.1.0/).
+
+
+Our dataset, including all FFA images and annotation files, is available on [PhysioNet](https://physionet.org/content/ffa-ir-medical-report/1.1.0/).
 
 To extract all the files, please first download all the files in FFAIR, and use the command "cat FAIR.tar.gz.* | 
 tar -zxv". Then the name of each directory refers to the case ID, and all the FFA images are provided.
